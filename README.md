@@ -18,6 +18,7 @@
 - 💼 **Telegram:** @spartan121
 - 🐦 **Instagram:** [@xandergusarov](https://www.instagram.com/xandergusarov/)
 - 🌐 **Portfolio:**  [click!](http://keegooroomie.tilda.ws/)
+- 💎 **Upwork:** [click!](https://www.upwork.com/freelancers/~01764e57e0646f2fbf?referrer_url_path=/nx/search/talent/)
 
 ## **🔧 My Tech Stack:**
 
