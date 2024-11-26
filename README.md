@@ -9,7 +9,7 @@
 
 ## I am a Software Engineer, Mobile and Game Developer 🚀
 
- 👀 Passionate about Swift iOS Development, Game Development, crafting innovative and user-friendly apps.
+ - 👀 Passionate about Swift iOS Development, Game Development, crafting innovative and user-friendly apps.
 - 🌱 Currently exploring design practicies to deliver best visual experience.
 - 💻 Experienced in game development and always eager to explore cutting-edge solutions in mobile tech.
 - 🌟 Enthusiastic about learning, experimenting with frameworks, and refining my technical skills.
