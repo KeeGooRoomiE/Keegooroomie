@@ -17,5 +17,5 @@
 - **Languages:** Dart, Swift, Java, C#, JavaScript, TypeScript, GML, Solidity, GLSL
 - **Frameworks:** Flutter, Xamarin, Android SDK, Xcode, .NET, Unity, Game Maker, Angular, React, EF Core, Metal, Node.js, Laravel, Vue
 - **Tools:** Git, Firebase, Google Analtytics, REST API, MySQL, Jira, Postman, JetBrain Toolst, Vim, ShaderToy
-- **UI/UX:** Figma, Adobe Suit, Sketch, Pixelmator
+- **UI/UX:** Figma, Adobe Suite, Sketch, Pixelmator
 - **Web Development:** JavaScript, HTML, CSS, Tilda, OpenGL
