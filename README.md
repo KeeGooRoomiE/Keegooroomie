@@ -18,3 +18,5 @@
 - **Tools:** Git, Firebase, Google Analtytics, REST API, MySQL, Jira, Postman, JetBrain Toolst, Vim, ShaderToy
 - **UI/UX:** Figma, Adobe Suite, Sketch, Pixelmator
 - **Web Development:** JavaScript, HTML, CSS, Tilda, OpenGL
+- **Platforms:** Android, iOS, macOS, tvOS, WearOS, Web, Windows, Amazon, Blockchain Ether, Linux 
+- **AI Tools:** ChatGPT, Perplexity, Cursor, Grok, Fooocus AI
