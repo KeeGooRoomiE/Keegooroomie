@@ -11,6 +11,7 @@
 - 🐦 **Instagram:** [@xandergusarov](https://www.instagram.com/xandergusarov/)
 - 🌐 **Portfolio:**  [click!](http://keegooroomie.tilda.ws/)
 - 💎 **Upwork:** [click!](https://www.upwork.com/freelancers/~01764e57e0646f2fbf?referrer_url_path=/nx/search/talent/)
+- 🔗 **LinkedIn:** [click!](https://www.linkedin.com/in/alexander-gusarov-4a08911a2/) 
   
 ## **🔧 My Tech Stack:**
 - **Languages:** Dart, Swift, Java, C#, JavaScript, TypeScript, GML, Solidity, GLSL
