@@ -1,12 +1,10 @@
 # Alexander Gusarov 👾
-
-Product-Oriented Software Engineer with 10+ years building scalable game and mobile systems.  
+Software Engineer with 10+ years building scalable game, mobile and backend systems.  
 I build products that ship, scale and survive real users.
 
 ---
 
 ## 🏆 What Shipped
-
 | Project | Impact | My Role |
 |---|---|---|
 | **Sand Balls** | 100M+ downloads · Top-3 Arcade ~1 year | Core gameplay systems · Performance optimization |
@@ -17,7 +15,6 @@ I build products that ship, scale and survive real users.
 ---
 
 ## 🧠 How I Think
-
 - Gameplay loops and iteration — from GDD to playtest metrics  
 - Performance that holds under real user load  
 - Infrastructure designed for minimal operational overhead  
@@ -26,13 +23,12 @@ I build products that ship, scale and survive real users.
 ---
 
 ## 🛠 Stack
-
 **Games & Mobile** — Unity (C#), Game Maker (GML), Flutter, Swift, ShaderLab  
 **Frontend** — React, Angular, TypeScript, JavaScript, HTML/CSS  
 **Backend** — Go, Node.js, C# (.NET), REST API, WebSockets  
-**Infra** — Kubernetes, Docker, Terraform, Ansible, AWS, GitHub Actions  
+**Infra** — Kubernetes, Helm, Docker, Terraform, Ansible, AWS, GitHub Actions  
 **Monitoring** — Grafana, Prometheus, VictoriaMetrics  
-**Data** — PostgreSQL, MySQL, MongoDB, Redis  
+**Data** — PostgreSQL, ClickHouse, MySQL, MongoDB, Redis, RabbitMQ  
 
 ---
 
@@ -42,4 +38,5 @@ I build products that ship, scale and survive real users.
 [![Showcase](https://img.shields.io/badge/Showcase-000?style=flat)](https://keegooroomie.github.io/cv_hub/showcase/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-gusarov-4a08911a2/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/spartan121)
+[![Telegram Channel](https://img.shields.io/badge/keegooroomie-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/keegooroomie)
 [![Upwork](https://img.shields.io/badge/Upwork_Top_Rated_Plus-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01764e57e0646f2fbf)
