@@ -37,5 +37,5 @@ I build products that ship, scale and survive real users.
 [![Showcase](https://img.shields.io/badge/Showcase-000?style=flat)](https://keegooroomie.github.io/cv_hub/showcase/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-gusarov-4a08911a2/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/spartan121)
-[![Telegram Channel](https://img.shields.io/badge/keegooroomie-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/keegooroomie)
+[![Telegram Channel](https://img.shields.io/badge/keegooroomie-26A5E4?style=flat&logo=telegram&logoColor=white)]([https://t.me/keegooroomie](https://t.me/+awr6oXQ9IMQ5YTMy))
 [![Upwork](https://img.shields.io/badge/Upwork_Top_Rated_Plus-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01764e57e0646f2fbf)
