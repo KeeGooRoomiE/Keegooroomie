@@ -1,7 +1,8 @@
 # Alexander Gusarov 👾
 Software Engineer with 10+ years building scalable game, mobile and backend systems.  
 I build products that ship, scale and survive real users.
-![Profile Views](https://komarev.com/ghpvc/?username=keegooroomie&style=flat&color=white)
+
+![Profile Views](https://komarev.com/ghpvc/?username=keegooroomie&style=flat)
 ---
 
 ## 🏆 What Shipped
