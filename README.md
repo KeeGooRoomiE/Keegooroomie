@@ -10,7 +10,7 @@ I build products that ship, scale and survive real users.
 | **Sand Balls** | 100M+ downloads · Top-3 Arcade ~1 year | Core gameplay systems · Performance optimization |
 | **Bhop Jump** | $160K+ revenue in Q1 · 16-player real-time multiplayer | Multiplayer architecture · Monetization loops |
 | **Lana and Ronen** | 1M+ downloads · $10K+ in Q1 | Retention tuning · Economy balancing |
-| **Steam Deck Keyboard** | 16K+ installs · 59⭐ DeckThemes | Modular CSS architecture |
+| **Steam Deck Keyboard** | 32K+ installs · 120+ ⭐ DeckThemes | Developer |
 
 ---
 
