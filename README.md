@@ -10,7 +10,7 @@ I build products that ship, scale and survive real users.
 | **Sand Balls** | 100M+ downloads · Top-3 Arcade ~1 year | Core gameplay systems · Performance optimization |
 | **Bhop Jump** | $160K+ revenue in Q1 · 16-player real-time multiplayer | Multiplayer architecture · Monetization loops |
 | **Lana and Ronen** | 1M+ downloads · $10K+ in Q1 | Retention tuning · Economy balancing |
-| **Steam Deck Keyboard** | 38K+ installs · 140+ ⭐ DeckThemes | Developer |
+| **Steam Deck Keyboard** | 40K+ installs · 140+ ⭐ DeckThemes | Developer |
 
 ---
 
@@ -24,7 +24,7 @@ I build products that ship, scale and survive real users.
 
 ## 🛠 Stack
 **Games & Mobile** — Unity (C#), Game Maker (GML), Flutter, Swift, ShaderLab  
-**Frontend** — React, Angular, TypeScript, JavaScript, HTML/CSS  
+**Frontend** — Astro, React, Angular, TypeScript, JavaScript, HTML/CSS  
 **Backend** — Go, Node.js, C# (.NET), REST API, WebSockets  
 **Infra** — Kubernetes, Helm, Docker, Terraform, Ansible, AWS, GitHub Actions  
 **Monitoring** — Grafana, Prometheus, VictoriaMetrics  
